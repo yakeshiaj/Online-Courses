@@ -1,0 +1,45 @@
+* {
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* The element selector finds HTML elements based on the element name. */
+body {
+    background: white;
+    border: 5px solid gray;
+}  
+
+h1, h2 { 
+    text-align: center; 
+    color: cornflowerblue;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+}
+
+/* The element selector finds HTML elements based on the element name. */
+p { text-align: center; } 
+
+/* The element selector finds HTML elements based on the element name. */
+button {
+    font-size: 1.5em;
+    padding: 10px;
+    margin: 0 auto;
+    display: block;
+    background-color: cornflowerblue;
+    color: white;
+}
+
+#click:hover {
+    background: lightcoral;
+    color:white;
+    font-size: 1.5em;
+}
+
+/* The basic selector finds HTML elements with a specific class attribute. */
+.candy {
+    font-weight: 800;
+    line-height: 1.5em;
+}
