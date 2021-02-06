@@ -3,9 +3,10 @@
 www.jenkinsinfluence.com
 
 ## Week 1 : HTML 101: Basic Elements 
+https://youtu.be/ssCYxogZAog
 
 ## Week 2: CSS
-Coming soon.
+https://youtu.be/G18oPIbPv0k
 
 ## Week 3: Javascript
 Coming soon.
